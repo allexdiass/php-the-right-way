@@ -6,3 +6,5 @@ timezone: "America/Sao_Paulo"
 highlighter: rouge
 markdown: kramdown
 permalink: date
+
+theme: jekyll-theme-merlot
